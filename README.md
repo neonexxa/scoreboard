@@ -1,1 +1,1 @@
-# scoreboard
+# Usage guideline
