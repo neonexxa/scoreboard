@@ -71,7 +71,13 @@ Opps!!!!!
 
 Relax.., just head to `localhost/scoreboard/` , __[this is where the admin will log in](http://localhost/scoreboard)__ , 
 
-Meanwhile, how about take a little time and read the usage documentation below on how to use the scoreboard.
+you can add users, questions etc from there. 
+
+YOU ARE ALLOWED TO MODIFY AND COPY THE FILE . JUST INCLUDE THE COPYRIGHT MARK AT TOP OF YOUR CODE AFTER MODIFYING. 
+
+# Still need help?
+
+Meanwhile, how about take a little time and read the usage __[documentation](https://github.com/neonexxa/scoreboard/blob/master/USAGE.md)__ on how to use the scoreboard.
 
 
 
