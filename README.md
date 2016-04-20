@@ -73,7 +73,7 @@ Relax.., just head to `localhost/scoreboard/` , __[this is where the admin will 
 
 you can add users, questions etc from there. 
 
-YOU ARE ALLOWED TO MODIFY AND COPY THE FILE . JUST INCLUDE THE COPYRIGHT MARK AT TOP OF YOUR CODE AFTER MODIFYING. 
+YOU ARE ALLOWED TO MODIFY AND COPY THE FILE TO SUIT YOUR SECURITY EXPECTATION. JUST INCLUDE THE __[LICENSE](https://github.com/neonexxa/scoreboard/blob/master/LICENSE)__ FILE IN YOUR FOLDER. 
 
 # Still need help?
 
