@@ -14,7 +14,7 @@ Download and install __[`XAMPP`](https://www.apachefriends.org/download.html)__ 
 
 ### <sup>Step 2:</sup> Download the ZIP kit 📦
 
-[<img src="http://i.imgur.com/UVPZoM0.png" width="200">](https://github.com/neonexxa/scoreboard/score.zip)
+[<img src="http://i.imgur.com/UVPZoM0.png" width="200">](https://github.com/neonexxa/scoreboard/blob/master/score.zip)
 
 
 ### <sup>Step 3:</sup> Move and Extract File
