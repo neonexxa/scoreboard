@@ -26,7 +26,7 @@ After you have __[downloaded and extracted this `.zip` file](https://github.com/
 
 ### <sup>Step 4:</sup> Upload Your Database
 
-Switch on your xampp 
+Switch on your xampp, start your `apache` and `mysql`.
 
 Open your browser, go to `localhost/phpmyadmin` , __[create a new Database](http://webvaultwiki.com.au/(S(iungfwenvz2f5c55pioeinil))/Default.aspx?Page=Create-Mysql-Database-User-Phpmyadmin&NS=&AspxAutoDetectCookieSupport=1)__ , and give any name you want. for example it can be `mynewdb`. 
 
@@ -73,7 +73,7 @@ Relax.., just head to `localhost/scoreboard/` , __[this is where the admin will 
 
 you can add users, questions etc from there. 
 
-YOU ARE ALLOWED TO MODIFY AND COPY THE FILE TO SUIT YOUR SECURITY EXPECTATION. JUST INCLUDE THE __[LICENSE](https://github.com/neonexxa/scoreboard/blob/master/LICENSE)__ FILE IN YOUR FOLDER. 
+YOU ARE ALLOWED TO MODIFY AND COPY THE FILE TO MEET YOUR SECURITY EXPECTATION. JUST INCLUDE THE __[LICENSE](https://github.com/neonexxa/scoreboard/blob/master/LICENSE)__ FILE IN YOUR FOLDER. 
 
 # Still need help?
 
