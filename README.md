@@ -49,7 +49,7 @@ Replace with your database name that your created earlier in the phpmyadmin. for
 
 Great!!! Now our user application is connected to the database, lets help the Admin connected to the database next. 
 
-Open your browser, go to `localhost/scoreboard/Nconnected.php`, can use any text editor.
+Open `C:/xampp/htdocs/scoreboard/Nconnected.php`, can use any text editor.
 
 Find 
 
