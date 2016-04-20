@@ -37,7 +37,7 @@ After that, go to `import` tab in the `mynewdb(example)` and import the `newtest
 
 Lets connect our scoreboard with our new database
 
-Open `C:/xampp/htdocs/score/inc/constant.php`, can use any text editor. 
+Open `C:/xampp/htdocs/score/score/inc/constant.php`, can use any text editor. 
 
 Find 
 
@@ -49,7 +49,7 @@ Replace with your database name that your created earlier in the phpmyadmin. for
 
 Great!!! Now our user application is connected to the database, lets help the Admin connected to the database next. 
 
-Open `C:/xampp/htdocs/scoreboard/Nconnected.php`, can use any text editor.
+Open `C:/xampp/htdocs/score/scoreboard/Nconnected.php`, can use any text editor.
 
 Find 
 
@@ -63,13 +63,13 @@ Congratulation!!! You have completed all the steps for configuration. Your score
 
 ### It's Ready!!!
 
-Open your browser, go to `localhost/score/` , __[this is where your the user will log in](http://localhost/score)__ , 
+Open your browser, go to `localhost/score/score/` , __[this is where your the user will log in](http://localhost/score/score/)__ , 
 
 Opps!!!!! 
 
 	*you cannot see the scoreboard because there is no user yet*
 
-Relax.., just head to `localhost/scoreboard/` , __[this is where the admin will log in](http://localhost/scoreboard)__ , 
+Relax.., just head to `localhost/score/scoreboard/` , __[this is where the admin will log in](http://localhost/score/scoreboard)__ , 
 
 you can add users, questions etc from there. 
 
