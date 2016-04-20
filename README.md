@@ -38,9 +38,11 @@ Lets connect our scoreboard with our new database
 Open `C:/xampp/htdocs/score/inc/constant.php`, can use any editor. 
 
 Find 
+
 	define("DATABASE", "your_database_name");
 
-Replace with your database name that your created earlier in the phpmyadmin. for example `mynewdb`
+Replace with your database name that your created earlier in the phpmyadmin. for example `mynewdb` 
+
 	define("DATABASE", "mynewdb");
 
 
