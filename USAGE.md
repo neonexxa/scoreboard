@@ -7,7 +7,14 @@ Admin guide and usage guide for UTPHAX Training scoreboard
 Usage guidelines for admin panel
 
 
-### <sup>Step 1:</sup> Not plan yet
+### <sup>Participant:</sup> Adding Participant
 
-jeng jeng.. 
+### <sup>Participant:</sup> Changing/Update/Delete
 
+### <sup>Game:</sup> Adding Question
+
+### <sup>Game:</sup> Change Question
+
+### <sup>Game:</sup> Round Config
+
+### <sup>Game:</sup> 
