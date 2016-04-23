@@ -95,7 +95,7 @@ Find the old Q(ID) and submit a new 1
 
 ## Having fun?
 
-Its good to see to reviewing the guideline, hope to see alot of modifaction done by you guys. 
+Its good to see you reviewing the guideline, hope to see alot of modification done by you guys. 
 
 JUST REMEMBER TO INCLUDE OUR __[LICENSE](https://github.com/neonexxa/scoreboard/blob/master/LICENSE)__ FILE IN YOUR FOLDER.
 
