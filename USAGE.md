@@ -92,3 +92,11 @@ Find the old Q(ID) and submit a new 1
 #### Step 2: Select the appropriate round you want
 
 ![Image of round configuration](https://github.com/neonexxa/scoreboard/blob/master/images/selectround.jpg)
+
+## Having fun?
+
+Its good to see to reviewing the guideline, hope to see alot of modifaction done by you guys. 
+
+JUST REMEMBER TO INCLUDE OUR __[LICENSE](https://github.com/neonexxa/scoreboard/blob/master/LICENSE)__ FILE IN YOUR FOLDER.
+
+## THANK YOU 
