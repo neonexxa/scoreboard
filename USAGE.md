@@ -16,11 +16,11 @@ go to your browser, enter `localhost/score/scoreboard/`
 
 #### Step 2: Scroll down to create new login
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of create login](https://github.com/neonexxa/scoreboard/blob/master/images/scrolltonewlogin.JPG)
 
 #### Step 3: Enter your details, and submit example..
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Submit detail](https://github.com/neonexxa/scoreboard/blob/master/images/submitdetail.JPG)
 
 ### <sup>Participant:</sup> Changing/Update/Delete
 
@@ -32,13 +32,21 @@ go to your browser, enter `localhost/score/scoreboard/`
 
 #### Step 1: Group mapping ID
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of ](https://octodex.github.com/images/yaktocat.png)
 
-#### Step 2: Fixture
+#### Step 2: Configuring Fixture
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Selecting the specific round
+
+![Image of fixture](https://github.com/neonexxa/scoreboard/blob/master/images/selectingfixture.JPG)
+
+Set the fixture or match making
+
+![Image of fixture](https://github.com/neonexxa/scoreboard/blob/master/images/configuringfixture.JPG)
 
 ### <sup>Game:</sup> Adding Question
+
+![Image of Qconfig](https://github.com/neonexxa/scoreboard/blob/master/images/qconfig.JPG)
 
 #### Step 1: enter your question/ip/hint 
 
@@ -54,7 +62,7 @@ go to your browser, enter `localhost/score/scoreboard/`
 
 #### Step 1: Go to the Round setting in main menu
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of round configuration](https://github.com/neonexxa/scoreboard/blob/master/images/rconfig.JPG)
 
 #### Step 2: Select the appropriate round you want
 
