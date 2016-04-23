@@ -58,16 +58,19 @@ There qill be four main items need to enter,
 - flaggu/flag, which is the flag that will be submitted (dont worry as this will be encrypted with sha and salt)
 - Q(ID), which is the question number and round for example: 
 
-	G11 - Group stage, Round 1, Question number 1
-	G12 - Group stage, Round 1, Question number 2
-	G13 - Group stage, Round 1, Question number 3
+```
 
-	G21 - Group stage, Round 2, Question number 1
-	G22 - Group stage, Round 2, Question number 2
+G11 - Group stage, Round 1, Question number 1
+G12 - Group stage, Round 1, Question number 2
+G13 - Group stage, Round 1, Question number 3
 
-	SF1 - Semi Final stage, Question number 1
-	QF1 - Quater Final stage, Question number 1
-	FQ1 - Final stage, Question number 1
+G21 - Group stage, Round 2, Question number 1
+G22 - Group stage, Round 2, Question number 2
+
+SF1 - Semi Final stage, Question number 1
+QF1 - Quater Final stage, Question number 1
+FQ1 - Final stage, Question number 1
+```
 
 - Q(points), which is the points given for the corrent answer of the flag
 
