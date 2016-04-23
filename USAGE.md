@@ -12,7 +12,7 @@ go to your browser, enter `localhost/score/scoreboard/`
 
 #### Step 1: Click on the add participant 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Imaage add participant](https://github.com/neonexxa/scoreboard/blob/master/images/addparticipant.JPG)
 
 #### Step 2: Scroll down to create new login
 
