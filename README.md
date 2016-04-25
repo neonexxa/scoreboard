@@ -21,7 +21,7 @@ Download and install __[`XAMPP`](https://www.apachefriends.org/download.html)__ 
 
 Move `score.zip` to `C:/xampp/htdocs/` and Extract the downloaded file
 
-After you have __[downloaded and extracted this `.zip` file](https://github.com/neonexxa/scoreboard/score.zip)__ containing the contents of this repo, you'll have your scoreboard ready in these few steps:
+After you have __[downloaded and extracted this `.zip` file](https://github.com/neonexxa/scoreboard/blob/master/score.zip)__ containing the contents of this repo, you'll have your scoreboard ready in these few steps:
 
 
 ### <sup>Step 4:</sup> Upload Your Database
@@ -76,6 +76,8 @@ you can add users, questions etc from there.
 YOU ARE ALLOWED TO MODIFY AND COPY THE FILE TO MEET YOUR SECURITY EXPECTATION. JUST INCLUDE THE __[LICENSE](https://github.com/neonexxa/scoreboard/blob/master/LICENSE)__ FILE IN YOUR FOLDER. 
 
 # Still need help?
+
+Just shoot me an email firdaus@cyberhax.club for more inquiries. 
 
 Meanwhile, how about take a little time and read the usage __[documentation](https://github.com/neonexxa/scoreboard/blob/master/USAGE.md)__ on how to use the scoreboard.
 
